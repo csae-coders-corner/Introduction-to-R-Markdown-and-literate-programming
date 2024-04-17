@@ -66,4 +66,5 @@ R Markdown uses the Markdown syntax for formatting text. Markdown is a very simp
   - [knitcitations](https://github.com/cboettig/knitcitations)
 
 
-
+**Wim Louw, Research Manager, J-PAL Africa
+25 February 2021**
