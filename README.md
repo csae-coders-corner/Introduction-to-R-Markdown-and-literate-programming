@@ -58,12 +58,12 @@ R Markdown uses the Markdown syntax for formatting text. Markdown is a very simp
 - [{gluedown}](https://kiernann.com/gluedown/) --- "The goal of {gluedown} is to ease the transition from R’s powerful vectors to formatted markdown text."
 - [Lists are my secret weapon for reporting stats with knitr: Tidying and splitting model summaries for inline reporting](https://www.tjmahr.com/lists-knitr-secret-weapon/) --- Tristan Mahr's blog
 - Adding citations to your documents:
-  - Adding citations to posts - A minimal example website using blogdown
-  - Bibliographies and Citations in R Markdown
-  - GitHub - crsh/citr: RStudio Addin to Insert Markdown Citations
-  - Better BibTeX for Zotero
-  - Primer — An Introduction to CSL — Citation Style Language 1.0.1-dev documentation
-  - knitcitations
+  - [Adding citations to posts - A minimal example website using blogdown](https://blogdown-demo.rbind.io/2017/08/28/adding-citations-to-posts/)
+  - [Bibliographies and Citations in R Markdown](https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html#citations)
+  - [GitHub - crsh/citr: RStudio Addin to Insert Markdown Citations](https://github.com/crsh/citr)
+  - [Better BibTeX for Zotero](http://retorque.re/zotero-better-bibtex/)
+  - [Primer — An Introduction to CSL — Citation Style Language 1.0.1-dev documentation](http://docs.citationstyles.org/en/1.0.1/primer.html)
+  - [knitcitations](https://github.com/cboettig/knitcitations)
 
 
 
