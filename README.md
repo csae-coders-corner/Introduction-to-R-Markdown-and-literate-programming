@@ -1,3 +1,5 @@
+![CC Graphics 2024_RMarkdown](https://github.com/csae-coders-corner/Introduction-to-R-Markdown-and-literate-programming/assets/148211163/fd4d4cc6-afe8-4c29-b259-5b8ad2bfdaa9)
+
 # Introduction-to-R-Markdown-and-literate-programming
 *"R Markdown documents are fully reproducible. Use a productive [notebook interface](https://bookdown.org/yihui/rmarkdown/notebook.html) to **weave together narrative text and code** to produce elegantly formatted output. Use [multiple languages](https://bookdown.org/yihui/rmarkdown/language-engines.html) including R, Python, and SQL.” ---  [R Markdown website](https://rmarkdown.rstudio.com/)*
 
